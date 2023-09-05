@@ -1,0 +1,7 @@
+media/users/
+
+media/products/
+
+*.pyc
+
+.idea/
